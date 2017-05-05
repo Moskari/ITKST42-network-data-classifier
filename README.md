@@ -18,3 +18,11 @@ Tested with Python 3.6.
 Dependencies: Keras (earlier than Keras 2), Theano/Tensorflow, Numpy, Pandas, h5py, matplotlib
 
 At least 8 GB RAM and plenty of HDD space.
+
+### How to run
+
+Run the scripts in this order:
+
+-  	h2_preprocess.py
+-  	h2_create_data_sets.py
+-  	h2_fit_neural.py
